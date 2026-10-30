@@ -6,7 +6,7 @@ This portfolio features a clean and visually appealing design, smooth animations
 
 ## Live Demo
 
-🔗 **Live Website:** https://my-portfolio-ten-eta-28.vercel.app/
+🔗 **Live Website:** https://rifaa-tamanna-portfolio.vercel.app/
 
 ## Features
 
